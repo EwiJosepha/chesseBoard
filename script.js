@@ -12,4 +12,4 @@ for(j=1; j<=8; j++){
 chesseBoard+="\n"
 }      
 
-// console.log(chesseBoard)
+console.log(chesseBoard)
